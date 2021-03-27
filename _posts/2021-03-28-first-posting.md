@@ -5,9 +5,7 @@ categories:
   - Blog
 tags:
 ---
-
-
-### Dev-log Launching 기념 첫 포스팅
+## Dev-log Launching 기념 첫 포스팅
 
 > I never dreamed about success, I worked for it  *- Estée Lauder*
 

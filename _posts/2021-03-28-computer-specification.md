@@ -7,6 +7,7 @@ tags:
   - Computer-Architecture
   - CA
   - Computer
+typora-root-url: ../
 ---
 
 
@@ -19,25 +20,25 @@ tags:
 
 
 
-#### [Ⅰ. Overview ](#Ⅰ-overview)
+#### [Ⅰ. Overview ](#overview)
 
-#### [Ⅱ. Specifications ](#Ⅱ-specifications)
+#### [Ⅱ. Specifications ](#specifications)
 
-##### 		[1. CPU ](#1-cpu)
+#####     [1. CPU ](#cpu)
 
-#####			[2. Memory ](#2-memory)
+#####	    [2. Memory ](#memory)
 
-##### 		[3. HDD ](#3-hdd)
+#####     [3. HDD ](#hdd)
 
-##### 		[4. Graphics](#4-graphics)
+#####     [4. Graphics](#graphics)
 
-##### 		[5. Chipset](#5-chipset)
+#####     [5. Chipset](#chipset)
 
-##### 		[6. O/S](#6-os)
+#####     [6. O/S](#os)
 
-##### 		[7. Main Board](#7-main-board)
+#####     [7. Main Board](#main-board)
 
-#### [Ⅲ. Conclusion ](#Ⅲ-conclusion)
+#### [Ⅲ. Conclusion ](#conclusion)
 
 
 
@@ -47,9 +48,9 @@ tags:
 
 
 
-### Ⅰ. Overview
+### Overview
 
-<img src="../images/post2/1_1.png" alt="System Overview" style="zoom:48%;" />
+<img src="/images/post2/1_1.png" alt="System Overview" style="zoom:48%;" />
 
  가장 먼저 나의 Mac에 관하여 개요를 훑어보았다. Windows의 경우 제어판의 장치관리자나 `msinfo32` 명령어를 통해 해당 컴퓨터의 시스템 정보를 알 수 있지만, Mac은 작업표시줄 좌측 상단의  `Apple 로고`를 클릭하여 시스템 정보를 알아볼 수 있었다. 대략적인 개요는 다음과 같다.
 
@@ -73,11 +74,11 @@ tags:
 
 
 
-### Ⅱ. Specifications
+### Specifications
 
 
 
-####  1. CPU
+#### CPU
 
 > 2.4 GHz Quad-Core Intel Core i5, Turbo max 4.10 GHz)
 
@@ -105,7 +106,7 @@ tags:
 
 
 
-####  2. Memory
+#### Memory
 
 > 16GB LPDDR3
 
@@ -123,7 +124,7 @@ tags:
 
 
 
- ####  3. HDD
+ #### HDD
 
 > 512GB Apple SSD AP0512M
 
@@ -143,7 +144,7 @@ tags:
 
 
 
-####  4. Graphics
+#### Graphics
 
 > Intel Iris Plus Graphics 655 GPU
 
@@ -162,7 +163,7 @@ tags:
 
 
 
-####  5. Chipset
+#### Chipset
 
 > Apple T2 Security Chip
 
@@ -182,7 +183,7 @@ tags:
 
 
 
-####  6. O/S
+#### O/S
 
 > macOS Big SUr ver.11.2
 
@@ -202,7 +203,7 @@ tags:
 
 
 
-####  7. Main Board
+#### Main Board
 
 
 
@@ -224,7 +225,7 @@ tags:
 
 
 
-### Ⅲ. Conclusion
+### Conclusion
 
 
 
