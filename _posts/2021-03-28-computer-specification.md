@@ -84,8 +84,6 @@ typora-root-url: ../
 
 > 2.4 GHz Quad-Core Intel Core i5, Turbo max 4.10 GHz)
 
-border:none;
-
  [EveryMac.com](http://EveryMac.com) 에 접속해 보면 지금까지 출시된 맥북의 프로세서 정보를 한 눈에 찾아볼 수 있다.
 
 <img src="/images/post2/2_0.png" alt="Mac Processor info" style="zoom:48%;border:none;" />
