@@ -1,13 +1,15 @@
 ---
 layout: page
 type: about
+title: About
 typora-root-url: ../
 ---
 
 
 
+  
 
-
+  
 
 
 # Seo Byeong Jun
@@ -16,7 +18,7 @@ typora-root-url: ../
 
 
 
-<img src="/assets/images/about_profile.jpg" alt="Photo of me" style="zoom:40%;border=none;border-radius:7%;box-shadow: 0px 5px 30px" />
+<img src="/assets/images/about_profile2.jpeg" alt="Photo of me" style="zoom:20%;border=none;border-radius:50%;box-shadow: 0px 20px 40px" />
 
 
 
@@ -32,4 +34,4 @@ Double majoring in **Data Science**, Sejong Univ.
 
 ### Contact
 
-📧  sbj6364@gmail.com
+📧: sbj6364@gmail.com
