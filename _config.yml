@@ -5,7 +5,7 @@
 
 # Site
 title: Seo Byeong Jun
-subtitle: Dev log
+subtitle: Dev Log for Geneal Machine Learning & Data Science
 description: Study Note for General Machine Learning & Data Science
 author: Seo Byeong Jun
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -215,6 +215,8 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 #social:
   #LinkLabel: Link
+  GitHub: https://github.com/sbj6364
+  Instagram: https://www.instagram.com/givenbottle/?hl=ko
 
 
 # Social Links Icons
@@ -229,11 +231,12 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
+  Instagram: instagram
 
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: https://avatars.githubusercontent.com/u/33171758?v=4
 
 
 # Table Of Contents in the Sidebar
