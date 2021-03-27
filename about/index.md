@@ -23,7 +23,7 @@ type: about
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%20-%23007ACC.svg?&style=for-the-badge&logo=c&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C%20-%23007ACC.svg?&style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/JAVA%20-%2343853D.svg?&style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/javascript%20-%23e5c91a.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp;&nbsp;&nbsp;
@@ -49,7 +49,6 @@ type: about
     <a target="_blank" href="https://www.facebook.com/givenbottle"><img src="https://img.shields.io/badge/facebook-%23326ce5.svg?&style=plastic&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
     <a target="_blank" href="https://www.linkedin.com/in/givenbottle/"><img src="http://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&&locoColor=white"</a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="mailto:sbjun1126@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-
 
 </p>
 
