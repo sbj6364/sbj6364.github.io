@@ -20,23 +20,25 @@ typora-root-url: ../
 
 
 
+
+
 #### [Ⅰ. Overview ](#overview)
 
 #### [Ⅱ. Specifications ](#specifications)
 
-#####     [1. CPU ](#cpu)
+1. #####     [CPU ](#cpu)
 
-#####	    [2. Memory ](#memory)
+2. #####	    [Memory ](#memory)
 
-#####     [3. HDD ](#hdd)
+3. #####     [HDD ](#hdd)
 
-#####     [4. Graphics](#graphics)
+4. #####     [Graphics ](#graphics)
 
-#####     [5. Chipset](#chipset)
+5. #####     [Chipset ](#chipset)
 
-#####     [6. O/S](#os)
+6. #####     [O/S ](#os)
 
-#####     [7. Main Board](#main-board)
+7. #####     [Main Board ](#main-board)
 
 #### [Ⅲ. Conclusion ](#conclusion)
 
