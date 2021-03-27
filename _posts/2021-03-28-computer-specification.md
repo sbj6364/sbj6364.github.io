@@ -50,7 +50,7 @@ typora-root-url: ../
 
 ### Overview
 
-<img src="/images/post2/1_1.png" alt="System Overview" style="zoom:48%;" />
+<img src="/images/post2/1_1.png" alt="System Overview" style="zoom:48%;border:none;" />
 
  가장 먼저 나의 Mac에 관하여 개요를 훑어보았다. Windows의 경우 제어판의 장치관리자나 `msinfo32` 명령어를 통해 해당 컴퓨터의 시스템 정보를 알 수 있지만, Mac은 작업표시줄 좌측 상단의  `Apple 로고`를 클릭하여 시스템 정보를 알아볼 수 있었다. 대략적인 개요는 다음과 같다.
 
