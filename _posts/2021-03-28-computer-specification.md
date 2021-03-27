@@ -82,17 +82,19 @@ typora-root-url: ../
 
 > 2.4 GHz Quad-Core Intel Core i5, Turbo max 4.10 GHz)
 
-
+border:none;
 
  [EveryMac.com](http://EveryMac.com) 에 접속해 보면 지금까지 출시된 맥북의 프로세서 정보를 한 눈에 찾아볼 수 있다.
 
-<img src="../images/post2/2_0.png" alt="Mac Processor info" style="zoom:48%;" />
+<img src="/images/post2/2_0.png" alt="Mac Processor info" style="zoom:48%;border:none;" />
 
 본 컴퓨터와 일치하는 프로세서 번호는 `I5-8279U`이며, 이를 인텔 공식 홈페이지에서 찾아보았다.
 
 
 
-<img src="../images/post2/2_1.png" alt="Processor" style="zoom:48%;" />
+<img src="/images/post2/2_1.png" alt="Processor" style="zoom:48%;border:none;" />
+
+
 
  제조 회사: **Intel®**
 
@@ -110,7 +112,9 @@ typora-root-url: ../
 
 > 16GB LPDDR3
 
-<img src="../images/post2/2_2.png" alt="Memory" style="zoom:48%;" />
+<img src="/images/post2/2_2.png" alt="Memory" style="zoom:48%;border:none;" />
+
+
 
 제조 회사: **Micron**
 
@@ -124,11 +128,13 @@ typora-root-url: ../
 
 
 
- #### HDD
+#### HDD
 
 > 512GB Apple SSD AP0512M
 
-<img src="../images/post2/2_3.png" alt="Memory" style="zoom:48%;" />
+<img src="/images/post2/2_3.png" alt="Memory" style="zoom:48%;border:none;" />
+
+
 
 제조 회사: **Apple
 ** 
@@ -148,9 +154,11 @@ typora-root-url: ../
 
 > Intel Iris Plus Graphics 655 GPU
 
- <img src="../images/post2/2_4.png" alt="Graphics" style="zoom:48%;" />
+ <img src="/images/post2/2_4.png" alt="Graphics" style="zoom:48%;border:none;" />
 
-<img src="../images/post2/2_5.png" alt="Processor Graphics" style="zoom:48%;" />
+<img src="/images/post2/2_5.png" alt="Processor Graphics" style="zoom:48%;border:none;" />
+
+
 
  제조 회사: **Intel®**
 
@@ -167,13 +175,16 @@ typora-root-url: ../
 
 > Apple T2 Security Chip
 
-<img src="../images/post2/2_6.png" alt="Chipset" style="zoom:60%;" />
+<img src="/images/post2/2_6.png" alt="Chipset" style="zoom:60%;border:none;" />
+
+
 
 제조 회사: **Apple**
 
- 현재 나의 맥북은 보조 칩셋이라고도 할 수 있는 Apple T2 보안 칩을 탑재하고 있다. 이는 Apple의 Mac용 2세대 맞춤형 실리콘 칩으로, 암호화된 저장장치, 보안 시동 기능, 향상된 이미지 신호 처리 및 Touch ID 데이터의 보안과 같은 기능을 Mac에 제공한다.
+ 현재 나의 맥북은 보조 칩셋이라고도 할 수 있는 Apple T2 보안 칩을 탑재하고 있다. 이는 Apple의 Mac용 2세대 맞춤형 실리콘 칩으로, 암호화된 저장장치, 보안 시동 기능, 향상된 이미지 신호 처리 및 Touch ID 데이터의 보안과 같은 기능을 Mac에 제공한다.  
 
-<img src="../images/post2/2_7.png" alt="T2 Chip" style="zoom:15%;" />
+
+<img src="/images/post2/2_7.png" alt="T2 Chip" style="zoom:15%;border:none;" />
 
  애플의 T2 칩에 대한 자세한 정보를 소개하자면, T2 칩은 2017년 아이맥 프로에 최초 사용되었으며 BridgeOS 2.0이라는 자체 OS를 구동한다. 64비트 ARM 기반 아키텍처로서 애플 A10 계열의 칩셋이다. 암호화된 문자를 주고받을 수 있으며 컴퓨터의 구동 프로세스를 사용자가 잠글 수 있게 하며 카메라와 오디오 등 다양한 컴퓨터 기능을 담당하고, SSD를 구동하는데 큰 기여를 한다. iMac Pro FaceTime HD 카메라의 '강화된 이미지 프로세싱' 기능과 애플의 Siri 호출 기능을 컴퓨터에 지원한다. 2018년 7월 12일에 공개된 MacBook Pro또한 이 칩셋을 사용하며 2018년 11월 7일 공개된 Mac Mini 와 MacBook Air, 2020년 8월 4일 공개된 iMac 5K도 이 칩셋을 채용했다고 한다.
 
@@ -189,7 +200,9 @@ typora-root-url: ../
 
 
 
-<img src="../images/post2/2_8.png" alt="macOS Big Sur" style="zoom:35%;" />
+<img src="/images/post2/2_8.png" alt="macOS Big Sur" style="zoom:35%;border:none;" />
+
+
 
 제조 회사: **Apple**
 
@@ -207,9 +220,9 @@ typora-root-url: ../
 
 
 
-<img src="../images/post2/2_9.png" alt="MB Pro 13'' 2019" style="zoom:35%;" />
+<img src="/images/post2/2_9.png" alt="MB Pro 13'' 2019" style="zoom:35%;border:none;" />
 
-<img src="../images/post2/2_10.png" alt="Elements" style="zoom:40%;" />
+<img src="/images/post2/2_10.png" alt="Elements for each colors" style="zoom:40%;border:none;" />
 
  제조 회사: **Apple** 
 
@@ -217,7 +230,9 @@ typora-root-url: ../
 
  추가적으로 알아본 사항으로는 품목 코드가 `IF123-150-1` 이라는 사실인데, Apple 공식 홈페이지에서는 찾을 수 없어 [ifixit](ko.ifixit.com) 이라는 수리 사이트에서 검색한 것이라 확실하지는 않다.
 
-<img src="../images/post2/2_11.png" alt="MB Pro 13'' 2018" style="zoom:70%;" />
+<img src="/images/post2/2_11.png" alt="MB Pro 13'' 2018" style="zoom:65%;border:none;" />
+
+
 
 
 
@@ -241,30 +256,21 @@ typora-root-url: ../
 
 
 
-- **0.1 MacBook**
-   [https://www.apple.com/kr/shop/buy-mac/macbook-pro/13%ED%98%95](https://www.apple.com/kr/shop/buy-mac/macbook-pro/13형)
+- [0.1 MacBook](https://www.apple.com/kr/shop/buy-mac/macbook-pro/13형)
 
-- **2.0 Mac processor info**
-   https://everymac.com/systems/by_processor/intel-core-i5-macs.html
+- [2.0 Mac processor info](https://everymac.com/systems/by_processor/intel-core-i5-macs.html)
 
-- **2.2 Processor**
-   https://ark.intel.com/content/www/kr/ko/ark/products/191070/intel-core-i5-8279u-processor-6m-cache-up-to-4-10-ghz.html
+- [2.2 Processor](https://ark.intel.com/content/www/kr/ko/ark/products/191070/intel-core-i5-8279u-processor-6m-cache-up-to-4-10-ghz.html)
 
-- **2.5 Processor Graphics**
-   https://ark.intel.com/content/www/kr/ko/ark/products/191070/intel-core-i5-8279u-processor-6m-cache-up-to-4-10-ghz.html
+- [2.5 Processor Graphics](https://ark.intel.com/content/www/kr/ko/ark/products/191070/intel-core-i5-8279u-processor-6m-cache-up-to-4-10-ghz.html)
 
-- **2.7 T2 Chip**
-   [https://ko.m.wikipedia.org/wiki/%ED%8C%8C%EC%9D%BC:Apple_T2_APL1027.jpg](https://ko.m.wikipedia.org/wiki/파일:Apple_T2_APL1027.jpg)
+- [2.7 T2 Chip](https://ko.m.wikipedia.org/wiki/파일:Apple_T2_APL1027.jpg)
 
-- **2.8 Big Sur**
-   https://www.theverge.com/2020/11/16/21569405/macos-big-sur-update-error-macbook-pro-2013-2014-models-black-screen
+- [2.8 Big Sur](https://www.theverge.com/2020/11/16/21569405/macos-big-sur-update-error-macbook-pro-2013-2014-models-black-screen)
 
-- **2.9 MacBook Pro 13'' 2019 Main Board**
-   https://ko.ifixit.com/Store/Mac/MacBook-Pro-13-Inch-Retina-2019-2-4-GHz-Logic-Board-with-Paired-Touch-ID-Sensor/IF123-150?o=1
+- [2.9 MacBook Pro 13'' 2019 Main Board](https://ko.ifixit.com/Store/Mac/MacBook-Pro-13-Inch-Retina-2019-2-4-GHz-Logic-Board-with-Paired-Touch-ID-Sensor/IF123-150?o=1)
 
-- **2.10 Elements for each colors**
-   https://ko.ifixit.com/Store/Mac/MacBook-Pro-13-Inch-Retina-2019-2-4-GHz-Logic-Board-with-Paired-Touch-ID-Sensor/IF123-150?o=1
+- [2.10 Elements for each colors](https://ko.ifixit.com/Store/Mac/MacBook-Pro-13-Inch-Retina-2019-2-4-GHz-Logic-Board-with-Paired-Touch-ID-Sensor/IF123-150?o=1)
 
-- **2.11 MacBook Pro 13'' 2018 Main Board**
-   [https://ko.ifixit.com/Guide/MacBook+Pro+13-Inch+Touch+Bar+2018+%EB%B6%84%ED%95%B4%EB%8F%84/111384](https://ko.ifixit.com/Guide/MacBook+Pro+13-Inch+Touch+Bar+2018+분해도/111384)
+- [2.11 MacBook Pro 13'' 2018 Main Board](https://ko.ifixit.com/Guide/MacBook+Pro+13-Inch+Touch+Bar+2018+분해도/111384)
 
