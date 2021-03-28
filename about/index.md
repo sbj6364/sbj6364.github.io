@@ -27,15 +27,14 @@ typora-root-url: ../
 
 ### Education
 
----
+Undergraduate in **Smart Device Eng.** , IME, Sejong Univ.  
+Double majoring in **Data Science**, Sejong Univ.  
 
-Undergraduate in **Smart Device Eng.** , IME, Sejong Univ.
-Double majoring in **Data Science**, Sejong Univ.
+---
 
 
 
 ### Contact
 
----
+📧      sbj6364@gmail.com
 
-📧   sbj6364@gmail.com

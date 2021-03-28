@@ -2,7 +2,7 @@
 title: Computer Specifications
 date: 2021-03-28 03:00:03
 categories:
-  - CA
+  - Computer Architecture
 tags:
   - computer-architecture
   - ca
@@ -12,7 +12,7 @@ typora-root-url: ../
 
 
 
-## Macbook Pro (13-inch, 2019, Four Thunderbolt 3 ports)
+## Macbook Pro (13-inch, 2019, RAM 16GB, SSD 512GB, 4 Thunderbolt3 ports)
 
 
 
