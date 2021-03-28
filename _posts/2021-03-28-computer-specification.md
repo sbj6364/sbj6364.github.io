@@ -4,9 +4,9 @@ date: 2021-03-28 03:00:03
 categories:
   - CA
 tags:
-  - Computer-Architecture
-  - CA
-  - Computer
+  - computer-architecture
+  - ca
+  - computer
 typora-root-url: ../
 ---
 

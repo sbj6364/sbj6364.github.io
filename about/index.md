@@ -12,8 +12,6 @@ typora-root-url: ../
 .  
 .  
 .  
-.  
-.  
 
 # Seo Byeong Jun
 
