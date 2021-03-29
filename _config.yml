@@ -122,7 +122,7 @@ menu:
   about: /about/
   archives: /archives/
   tags: /tags/
-  sitemap: /sitemap.xml
+  #sitemap: /sitemap.xml
   #commonweal: /404.html
 
 
@@ -469,7 +469,7 @@ gitalk:
 #google_site_verification:
 
 # Google Analytics
-#google_analytics:
+#google_analytics: UA-193255053-1
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
