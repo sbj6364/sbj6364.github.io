@@ -2,7 +2,7 @@
 title: github.io 기술 블로그 시작
 date: 2021-03-28 00:24:03
 categories:
-  - Blog
+  - Personal
 tags:
 ---
 ## Dev-log Launching 기념 첫 포스팅
