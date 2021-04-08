@@ -2,13 +2,13 @@
 
 > Dev-log focused on Machine Learning & Data Science
 
-Feel free to visit [my blog](https://sbj6364.github.io/).
+👋 Feel free to visit [my blog](https://sbj6364.github.io/).
 
 
 
 
 
-![main](./images/main1.png)
+<img src="./images/main1.png" alt="main" style="zoom:50%;" />
 
 - 2021.03.27. First launched
 
