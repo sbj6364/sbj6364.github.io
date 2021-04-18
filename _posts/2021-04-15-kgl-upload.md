@@ -62,7 +62,7 @@ Kaggle은 가장 유명한 데이터 사이언스 경진대회 플랫폼이다. 
 
 뿐만 아니라 Kaggle 내에는 자체 등급, Performance Tier도 존재한다.
 
-![Kaggle-tier]
+<img src="/images/post13-kgl-upload/1.png" alt="kaggle-tier" style="zoom:50%;border:none" />
 
 실제로 몇몇 기업들의 경우 위 등급이 Master, Grandmaster인 경우 1차 테스트 면제 등의 기회를 부여한다고 한다.
 
