@@ -11,14 +11,10 @@
 <img src="./images/main1.png" alt="main" style="zoom:50%;" />
 
 - 2021.03.27. First launched
-- 2021.04.01.
 
 
 
 
-## Browser support
-
-![Browser support](http://iissnan.com/nexus/next/browser-support.png)
 
 ## Reference
 
