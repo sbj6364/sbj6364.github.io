@@ -110,23 +110,23 @@ Data science를 처음 접하고 지금까지 약 3년의 시간동안 데이터
 - ubuntu 16.04 container
 
   - `docker run ubuntu:16.04`
-    - 이 경우 사용할 이미지인 ubuntu:16.04가 저장되어 있지 않으므로 pull - create - start 를 자동으로 수행
+    - 이 경우 사용할 이미지인 ubuntu:16.04가 저장되어 있지 않으므로 `pull` - `create` - `start` 를 자동으로 수행
     - 컨테이너는 정상 실행되지만 명령어가 없으므로 생성되자마자 종료
     - 컨테이너는 프로세스이기 때문에 실행중인 프로세스가 없으면 종료
 
   - `docker run --rm -it ubuntu:16.04 /bin/bash`
     - bash 쉘 실행
-    - exit으로 쉘을 종료하면 컨테이너도 함께 종료
+    - `exit`으로 쉘을 종료하면 컨테이너도 함께 종료
 
 - redis container
 
   - 메모리 기반의 다양한 기능을 가진 스토리지
-  - 6379 포트 통신, telnet 명령어로 테스트 가능
+  - 6379 포트 통신, `telnet` 명령어로 테스트 가능
   - `docker run -d -p 1234:6379 redis`
     - 컨테이너 실행 직후 쉘로 돌아왔지만, -d 옵션으로 백그라운드 모드로 동작중
     - 이 경우 컨테이너 id를 이용하여 제어 가능
-    - -p 옵션으로 호스트의 1234 포트를 6379 포트로 연결함 (localhost 1234 포트 접속시 redis 사용 가능)
-    - telnet command가 없어 brew install 후 실행
+    - `-p` 옵션으로 호스트의 1234 포트를 6379 포트로 연결함 (localhost 1234 포트 접속시 redis 사용 가능)
+    - `telnet` command가 없어 brew install 후 실행
     - `telnet localhost 1234`, `set mykey hello`, `get mykey`
 
 - MySQL 5.7 container
@@ -137,14 +137,13 @@ Data science를 처음 접하고 지금까지 약 3년의 시간동안 데이터
 - WordPress container
 
   - `docker run -d -p 8080:80 --link mysql:mysql -e WORDPRESS_DB_HOST=mysql -e WORDPRESS_DB_NAME=wp -e WORDPRESS_DB_USER=wp -e WORDPRESS_DB_PASSWORD=wp wordpress`
-  - --link 옵션을 통해 환경변수와 IP 정보를 공유하는데 링크한 컨테이너의 IP 정보를 `/etc/hosts`에 자동으로 입력
+  - `--link` 옵션을 통해 환경변수와 IP 정보를 공유하는데 링크한 컨테이너의 IP 정보를 `/etc/hosts`에 자동으로 입력
   - 워드프레스 컨테이너가 MySQL db의 정보를 알 수 있게 됨
 
 - TensorFlow
 
   - `docker run -d -p 8888:8888 -p 6006:6006 teamlab/pydata-tensorflow:0.1`
   - 8888 포트로 들어가니 jupyter가, 6006포트는 TensorBoard가 나옴
-  - 
 
 
 
@@ -166,7 +165,7 @@ Data science를 처음 접하고 지금까지 약 3년의 시간동안 데이터
   - `docker logs --tail 10 CONTAINER`: 마지막 10줄만 출력
   - `docker logs -f CONTAINER`: 실시간 로그 생성 확인
 - `docker exec [OPTIONS] CONTAINER COMMAND [ARG...]`: 컨테이너 명령어 실행
-  - run은 새로 컨테이너를 만들어 실행, exec는 실행중인 컨테이너에 명령
+  - `run`은 새로 컨테이너를 만들어 실행, `exec`는 실행중인 컨테이너에 명령
 
 
 
