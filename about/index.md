@@ -19,7 +19,7 @@ typora-root-url: ../
 
 
 
-<img src="/assets/images/about_profile3.JPG" alt="profile" width=50% />
+<img src="/assets/images/about_profile3.JPG" alt="profile" style="width:50%"/>
 
 
 
@@ -27,8 +27,8 @@ typora-root-url: ../
 
 ### Education
 
-2017.03 - 2023.08  **Smart Device Eng.** , IME, Sejong Univ.  
-2017.03 - 2023.08  **Software Engineering**, Sejong Univ. (Double major) 
+2017.03 - 2023.08  	**Smart Device Eng.** , IME, Sejong Univ.  
+2017.03 - 2023.08  	**Software Engineering**, Sejong Univ. (Double major) 
 
 
 
