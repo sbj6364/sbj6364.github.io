@@ -10,7 +10,7 @@ typora-root-url: ../
   
 
   
-  
+
   
 
 # Seo Byeong Jun
@@ -27,8 +27,8 @@ typora-root-url: ../
 
 ### Education
 
-2017.03 - 2023.08 | **Smart Device Eng.** , IME, Sejong Univ.  
-2017.03 - 2023.08 | **Software Engineering**, Sejong Univ. (Double major) 
+2017.03 - 2023.08  **Smart Device Eng.** , IME, Sejong Univ.  
+2017.03 - 2023.08  **Software Engineering**, Sejong Univ. (Double major) 
 
 
 
