@@ -19,7 +19,7 @@ typora-root-url: ../
 
 
 
-<img src="/assets/images/about_profile3.JPG" alt="profile" style="width:50%"/>
+<img src="/assets/images/memoji.png" alt="profile" style="width:50%"/>
 
 
 
