@@ -1,5 +1,5 @@
 ---
-title: t-SNE
+title: t-SNE 논문 리뷰
 date: 2024-10-12 05:12:00
 categories:
   - Machine Learning
